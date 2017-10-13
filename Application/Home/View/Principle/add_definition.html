@@ -1,4 +1,4 @@
-<html>
+<!--<html>
 <head>
     <meta charset="UTF-8">
     <title>425政治学原理-名词解释-添加</title>
@@ -7,23 +7,31 @@
     <script type="text/javascript" src="__PUBLIC__/js/lib/jquery-3.2.1.js"></script>
     <script type="text/javascript" src="__PUBLIC__/js/lib/bootstrap.js"></script>
 </head>
-<body>
-<div class="main">
-    <br>
-    <form action="add_definition" method="post">
-        <lable>名词解释概念</lable>:<textarea name="definition_content" id="" cols="60" rows="10"></textarea>
+<body>-->
+<extend name="./Common/home_base"/>
+
+<block name="content">
+    <div class="main">
         <br>
-        <button type="submit">添加</button>
-        <button type="reset">取消</button>
-    </form>
+        <form action="add_definition" method="post">
+            <lable>名词解释概念</lable>
+            :<textarea name="definition_content" id="" cols="60" rows="10"></textarea>
+            <br>
+            <button class="btn btn-success" type="submit">添加</button>
+            <button class="btn btn-warning" type="reset">取消</button>
+        </form>
 
-</div>
+    </div>
+    <block name="extra_js">
+        <script type="text/javascript" src="__PUBLIC__/js/waterfall.js"></script>
+        <script type="text/javascript">
+            $(function () {
 
-<script type="text/javascript" src="__PUBLIC__/js/waterfall.js"></script>
-<script type="text/javascript">
-    $(function () {
+            });
+        </script>
+    </block>
+</block>
 
-    });
-</script>
-</body>
-</html>
+<!--
+    </body>
+    </html>-->

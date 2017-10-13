@@ -1,3 +1,4 @@
+<!--
 <html>
 <head>
     <meta charset="UTF-8">
@@ -8,8 +9,16 @@
     <script type="text/javascript" src="__PUBLIC__/js/lib/bootstrap.js"></script>
 </head>
 <body>
-<div class="main">
-    <div class="top_bar"><button class="btn btn-default" type="button"><a href="add_definition">添加</a></button></div>
+-->
+<extend name="./Common/home_base"/>
+
+<block name="content">
+    <!--<div class="main">-->
+    <div class="table_bar">
+        <div class="table_button">
+            <button class="btn btn-default" type="button"><a href="add_definition">添加</a></button>
+        </div>
+    </div>
     <br>
     <div class="grid" id="grid">
         <volist name="definition_list" id="vo">
@@ -30,19 +39,27 @@
         </volist>
     </div>
 
-</div>
+    <!--</div>-->
+    <block name="extra_css">
+        <link rel="stylesheet" href="__PUBLIC__/css/waterfall.css">
+    </block>
+    <block name="extra_js">
 
-<script type="text/javascript" src="__PUBLIC__/js/waterfall.js"></script>
-<script type="text/javascript">
-    $(function () {
+        <script type="text/javascript" src="__PUBLIC__/js/waterfall.js"></script>
+        <script type="text/javascript">
+            $(function () {
 
-    });
+            });
 
-    /*$('#grid').scroll(function () {
-     alert(clientHeight);
-     })*/
+            /*$('#grid').scroll(function () {
+             alert(clientHeight);
+             })*/
 
 
-</script>
+        </script>
+    </block>
+</block>
+
+<!--
 </body>
-</html>
+</html>-->

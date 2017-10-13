@@ -1,30 +1,26 @@
 
-.main {
-  margin: 100px;;
-  .grid {
-    margin: 0 auto;
-    width: 1300px;
-    //height: 800px;
-    border: solid 2px red;
-    .grid-item {
-      border: solid 2px black;
-      height: 100px;
-      .content {
-        width: 1050px;
+.grid {
+  margin: 0 20px;
+  border: solid 2px red;
+  .grid-item {
+    border: solid 2px black;
+    height: 100px;
+    .content {
+      width: 1400px;
+      float: left;
+    }
+    .handle {
+      margin-left: 20px;
+      width: 200px;
+      float: left;
+      .handle_normal {
+        width: 100px;
         float: left;
+
       }
-      .handle {
-        width: 200px;
+      .handle_emphasis {
         float: left;
-        .handle_normal {
-          width:100px;
-          float: left;
 
-        }
-        .handle_emphasis {
-          float: left;
-
-        }
       }
     }
   }
