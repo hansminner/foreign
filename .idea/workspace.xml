@@ -2,91 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="419b73e4-d955-499d-9f58-e6e6d3533e88" name="默认" comment="默认">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/006d995d884c0d42d6b63790cbeb90ce0833882a/_grid-background.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0731e0ff1483959ecb4293c8f3d8888edc6cb576/_base.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0731e0ff1483959ecb4293c8f3d8888edc6cb576/_sprite-img.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/1152d83a90c0962265ac13baf51d6bf8c3cb27dd/_css3.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/1152d83a90c0962265ac13baf51d6bf8c3cb27dd/_support.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/1152d83a90c0962265ac13baf51d6bf8c3cb27dd/_typography.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/1152d83a90c0962265ac13baf51d6bf8c3cb27dd/_utilities.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/1d400acd6cf8b6dec529845bd5495b39d0c8eb21/_links.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/1d400acd6cf8b6dec529845bd5495b39d0c8eb21/_lists.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/1d400acd6cf8b6dec529845bd5495b39d0c8eb21/_text.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/1d400acd6cf8b6dec529845bd5495b39d0c8eb21/_units.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/1d400acd6cf8b6dec529845bd5495b39d0c8eb21/_vertical_rhythm.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/216214e877401906eb4220810831dc741827b364/_hover-link.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/216214e877401906eb4220810831dc741827b364/_link-colors.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/216214e877401906eb4220810831dc741827b364/_unstyled-link.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/50f912bc0d1b4a806b6806dcd21de41d938e2c16/_common.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/50f912bc0d1b4a806b6806dcd21de41d938e2c16/_content.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/50f912bc0d1b4a806b6806dcd21de41d938e2c16/_main.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/51c4940f3eaa96df0a2e5d179c777e8b2857e143/_alternating-rows-and-columns.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/51c4940f3eaa96df0a2e5d179c777e8b2857e143/_borders.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/51c4940f3eaa96df0a2e5d179c777e8b2857e143/_scaffolding.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5866e973426c47c5a6e5119ce8043b91325c6339/_ellipsis.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5866e973426c47c5a6e5119ce8043b91325c6339/_force-wrap.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5866e973426c47c5a6e5119ce8043b91325c6339/_nowrap.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5866e973426c47c5a6e5119ce8043b91325c6339/_replacement.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/7e93284320446bd4de9d32c11c4b91cdd4821ef1/_bullets.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/7e93284320446bd4de9d32c11c4b91cdd4821ef1/_horizontal-list.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/7e93284320446bd4de9d32c11c4b91cdd4821ef1/_inline-block-list.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/7e93284320446bd4de9d32c11c4b91cdd4821ef1/_inline-list.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/96c88b7233133919b210682021e912e9f048e2bf/_clearfix.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/96c88b7233133919b210682021e912e9f048e2bf/_float.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/96c88b7233133919b210682021e912e9f048e2bf/_hacks.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/96c88b7233133919b210682021e912e9f048e2bf/_min.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/96c88b7233133919b210682021e912e9f048e2bf/_reset.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/96c88b7233133919b210682021e912e9f048e2bf/_tag-cloud.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_animation.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_appearance.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_background-clip.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_background-origin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_background-size.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_border-radius.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_box-shadow.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_box-sizing.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_columns.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_deprecated-support.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_filter.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_flexbox.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_font-face.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_hyphenation.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_images.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_inline-block.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_opacity.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_regions.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_text-shadow.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_transform.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_transition.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/973c6c898f07f0e4a67ae7db3a26fa21d949cf0d/_user-interface.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/99b64bb1d1afe13074f3287fc8f24939a961d2b0/_brightness.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/99b64bb1d1afe13074f3287fc8f24939a961d2b0/_contrast.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/9bd7330b3110d5d348ac0234207ec7456051a5e7/_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/9bd7330b3110d5d348ac0234207ec7456051a5e7/_general.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/9bd7330b3110d5d348ac0234207ec7456051a5e7/_sprites.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/9bd7330b3110d5d348ac0234207ec7456051a5e7/_tables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/af948552f9f6ca22e0c65d9582f82972807ddd47/home.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/af948552f9f6ca22e0c65d9582f82972807ddd47/waterfall.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/b1d8dc081756a7467fe2287e60c18cead77075d8/_compass.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c51f20f286d741ee4eb4457a219bcd2f0a4b0fc0/_utilities.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/View/Common/home_base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/css/home.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/sass/home.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/sass/pc/common/_common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/sass/pc/common/_main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/sass/pc/common/_top_bar.scss" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.phpstorm.meta.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/af948552f9f6ca22e0c65d9582f82972807ddd47/waterfall.scssc" afterPath="$PROJECT_DIR$/.sass-cache/af948552f9f6ca22e0c65d9582f82972807ddd47/waterfall.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" afterPath="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Deutsch/index.html" afterPath="$PROJECT_DIR$/Application/Home/View/Deutsch/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Index/index.html" afterPath="$PROJECT_DIR$/Application/Home/View/Index/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Marxism/index.html" afterPath="$PROJECT_DIR$/Application/Home/View/Marxism/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Principle/add_definition.html" afterPath="$PROJECT_DIR$/Application/Home/View/Principle/add_definition.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Principle/definition.html" afterPath="$PROJECT_DIR$/Application/Home/View/Principle/definition.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Principle/index.html" afterPath="$PROJECT_DIR$/Application/Home/View/Principle/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Relation/index.html" afterPath="$PROJECT_DIR$/Application/Home/View/Relation/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Relation/international_relations.html" afterPath="$PROJECT_DIR$/Application/Home/View/Relation/international_relations.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/3050be8bea53bc7b09b87786bc8ed9e5.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Home/3050be8bea53bc7b09b87786bc8ed9e5.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/41f4c7ca9758d5dad63112c4a1cfd0af.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Home/41f4c7ca9758d5dad63112c4a1cfd0af.php" />
@@ -123,51 +41,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="definition.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="definition.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/Home/View/Principle/definition.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="42" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="612">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Application/Home/View/Deutsch/index.html">
+      <file leaf-file-name="waterfall.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/sass/waterfall.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home_base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Home/View/Common/home_base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add_definition.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Home/View/Principle/add_definition.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public/sass/home.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -178,26 +66,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_main.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public/sass/pc/common/_main.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="waterfall.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Public/sass/waterfall.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -245,10 +113,10 @@
         <option value="$PROJECT_DIR$/Public/sass/pc/common/_common.scss" />
         <option value="$PROJECT_DIR$/Application/Home/View/Common/home_base.html" />
         <option value="$PROJECT_DIR$/Public/sass/home.scss" />
-        <option value="$PROJECT_DIR$/Application/Home/View/Principle/definition.html" />
         <option value="$PROJECT_DIR$/Public/sass/pc/common/_main.scss" />
-        <option value="$PROJECT_DIR$/Public/sass/waterfall.scss" />
         <option value="$PROJECT_DIR$/Application/Home/View/Principle/add_definition.html" />
+        <option value="$PROJECT_DIR$/Public/sass/waterfall.scss" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Principle/definition.html" />
       </list>
     </option>
   </component>
@@ -613,7 +481,7 @@
       <workItem from="1507820287549" duration="717000" />
       <workItem from="1507858711869" duration="51000" />
       <workItem from="1507859831452" duration="246000" />
-      <workItem from="1507861156213" duration="13539000" />
+      <workItem from="1507861156213" duration="15453000" />
     </task>
     <task id="LOCAL-00001" summary="默认">
       <created>1507861840437</created>
@@ -622,18 +490,25 @@
       <option name="project" value="LOCAL" />
       <updated>1507861840437</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="默认">
+      <created>1507881447702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507881447702</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64017000" />
+    <option name="totallyTimeSpent" value="65931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25752687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25752687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.50835073" order="7" side_tool="true" content_ui="tabs" />
@@ -922,14 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/sass/pc/common/_main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Public/sass/pc/common/_common.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -946,18 +813,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/sass/waterfall.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/View/Principle/add_definition.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
           <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/sass/pc/common/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -970,18 +837,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/Principle/definition.html">
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Deutsch/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="368">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/Deutsch/index.html">
+    <entry file="file://$PROJECT_DIR$/Public/sass/waterfall.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Principle/definition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>

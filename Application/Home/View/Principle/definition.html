@@ -19,7 +19,7 @@
             <button class="btn btn-default" type="button"><a href="add_definition">添加</a></button>
         </div>
     </div>
-    <br>
+
     <div class="grid" id="grid">
         <volist name="definition_list" id="vo">
             <div class="grid-item" id="{$vo.id}">
@@ -40,6 +40,41 @@
     </div>
 
     <!--</div>-->
+
+    <!--<table class="table table-striped">
+        <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        <div class="grid" id="grid">
+            <volist name="definition_list" id="vo">
+                <tr>
+                    <div class="grid-item" id="{$vo.id}">
+                        <td>
+                            <div class="content">
+                                {$vo.id} | {$vo.content}
+                            </div>
+                        </td>
+                        <td>
+                            <div class="handle">
+                                <div class="handle_normal">
+                                    <p><a href="javascript:void(0)" onclick="handle_normal({$vo['id']},2)">要再看</a></p>
+                                    <p><a href="javascript:void(0)" onclick="handle_normal({$vo['id']},1)">记住了</a></p>
+                                </div>
+                                <div class="handle_emphasis">
+                                    <p><a href="javascript:void(0)" onclick="handle_emphasis({$vo['id']})">重点</a></p>
+                                </div>
+                            </div>
+                        </td>
+                    </div>
+                </tr>
+            </volist>
+        </div>
+        </tbody>
+    </table>-->
     <block name="extra_css">
         <link rel="stylesheet" href="__PUBLIC__/css/waterfall.css">
     </block>
