@@ -1,0 +1,3 @@
+compass watch Public
+
+pause

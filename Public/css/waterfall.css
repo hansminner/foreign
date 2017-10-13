@@ -1,0 +1,1 @@
+.main{margin:100px}.main .grid{margin:0 auto;width:1300px;border:solid 2px red}.main .grid .grid-item{border:solid 2px black;height:100px}.main .grid .grid-item .content{width:1050px;float:left}.main .grid .grid-item .handle{width:200px;float:left}.main .grid .grid-item .handle .handle_normal{width:100px;float:left}.main .grid .grid-item .handle .handle_emphasis{float:left}

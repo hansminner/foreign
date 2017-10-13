@@ -1,0 +1,48 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>425政治学原理-名词解释</title>
+    <link rel="stylesheet" href="__PUBLIC__/css/lib/bootstrap.css">
+    <link rel="stylesheet" href="__PUBLIC__/css/waterfall.css">
+    <script type="text/javascript" src="__PUBLIC__/js/lib/jquery-3.2.1.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/js/lib/bootstrap.js"></script>
+</head>
+<body>
+<div class="main">
+    <div class="top_bar"><button class="btn btn-default" type="button"><a href="add_definition">添加</a></button></div>
+    <br>
+    <div class="grid" id="grid">
+        <volist name="definition_list" id="vo">
+            <div class="grid-item" id="{$vo.id}">
+                <div class="content">
+                    {$vo.id} | {$vo.content}
+                </div>
+                <div class="handle">
+                    <div class="handle_normal">
+                        <p><a href="javascript:void(0)" onclick="handle_normal({$vo['id']},2)">要再看</a></p>
+                        <p><a href="javascript:void(0)" onclick="handle_normal({$vo['id']},1)">记住了</a></p>
+                    </div>
+                    <div class="handle_emphasis">
+                        <p><a href="javascript:void(0)" onclick="handle_emphasis({$vo['id']})">重点</a></p>
+                    </div>
+                </div>
+            </div>
+        </volist>
+    </div>
+
+</div>
+
+<script type="text/javascript" src="__PUBLIC__/js/waterfall.js"></script>
+<script type="text/javascript">
+    $(function () {
+
+    });
+
+    /*$('#grid').scroll(function () {
+     alert(clientHeight);
+     })*/
+
+
+</script>
+</body>
+</html>

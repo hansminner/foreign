@@ -1,0 +1,32 @@
+
+.main {
+  margin: 100px;;
+  .grid {
+    margin: 0 auto;
+    width: 1300px;
+    //height: 800px;
+    border: solid 2px red;
+    .grid-item {
+      border: solid 2px black;
+      height: 100px;
+      .content {
+        width: 1050px;
+        float: left;
+      }
+      .handle {
+        width: 200px;
+        float: left;
+        .handle_normal {
+          width:100px;
+          float: left;
+
+        }
+        .handle_emphasis {
+          float: left;
+
+        }
+      }
+    }
+  }
+}
+
