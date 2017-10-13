@@ -2,7 +2,8 @@
  * Created by Administrator on 2017/9/19.
  */
 $(function () {
-
+    //$('.handle_emphasis').attr('em')
+    console.log($('.handle_emphasis em'));
 });
 function handle_normal(id,type) {
     $.post('ajax_handle_normal',{item_id:id,type:type},function () {
@@ -11,7 +12,7 @@ function handle_normal(id,type) {
 }
 function handle_emphasis(id) {
     $.post('ajax_handle_emphasis',{item_id:id},function (id) {
-console.log(id);
+
     });
 
 }

@@ -13,7 +13,6 @@
 <extend name="./Common/home_base"/>
 
 <block name="content">
-    <!--<div class="main">-->
     <div class="table_bar">
         <div class="table_button">
             <button class="btn btn-default" type="button"><a href="add_definition">添加</a></button>
@@ -28,18 +27,16 @@
                 </div>
                 <div class="handle">
                     <div class="handle_normal">
-                        <p><a href="javascript:void(0)" onclick="handle_normal({$vo['id']},2)">要再看</a></p>
-                        <p><a href="javascript:void(0)" onclick="handle_normal({$vo['id']},1)">记住了</a></p>
+                        <p><button class="btn btn-warning" onclick="handle_normal({$vo['id']},2)">要再看</button></p>
+                        <p><button class="btn btn-success" onclick="handle_normal({$vo['id']},1)">记住了</button></p>
                     </div>
-                    <div class="handle_emphasis">
-                        <p><a href="javascript:void(0)" onclick="handle_emphasis({$vo['id']})">重点</a></p>
+                    <div class="handle_emphasis" em="{$vo.emphasis}">
+                        <p><button class="btn btn-danger" onclick="handle_emphasis({$vo['id']},3)">重点</button></p>
                     </div>
                 </div>
             </div>
         </volist>
     </div>
-
-    <!--</div>-->
 
     <!--<table class="table table-striped">
         <thead>
@@ -89,12 +86,8 @@
             /*$('#grid').scroll(function () {
              alert(clientHeight);
              })*/
-
-
         </script>
     </block>
 </block>
 
-<!--
-</body>
-</html>-->
+
